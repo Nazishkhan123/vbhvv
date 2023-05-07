@@ -1,0 +1,49 @@
+.container-fluid{
+    background-color: blue !important ;
+    color: white !important;
+    
+    height: 20%;
+    
+}
+
+.nav-link {
+    color: white !important;
+}
+.form-control {
+    background-color: blue !important;
+    color: white !important;
+    
+}
+
+d-flex{
+    color: white !important;
+}
+.image2 {
+    position: relative;
+    left: 65%;
+    bottom: 450px;
+    color: white;
+    font-weight: bold;
+}
+.image3{
+    position: relative;
+    margin-top: -260px;
+    left: 60%;
+    bottom: 100px;
+}
+.pepsi{
+    background-color:blue;
+    margin-top: 0;
+}
+.pepsi a{
+    position: absolute;
+    margin-top: 600px;
+    margin-right:500px;
+}
+.btn{
+    margin-left: 700px;
+    margin-bottom: 20px;
+    height: 35px;
+    width:px ;
+    border-radius: 20px;
+}
